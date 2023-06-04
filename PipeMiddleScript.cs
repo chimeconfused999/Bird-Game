@@ -14,7 +14,7 @@ public class PipeMiddleScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        fd
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
